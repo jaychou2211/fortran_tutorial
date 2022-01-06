@@ -1,0 +1,11 @@
+{
+    "fortran.ignoreWarning.fortls": true,
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.fontSize": 22,
+    "fortran-ls.executablePath": "C:\\Users\\jay\\AppData\\Roaming\\Python\\Python38\\Scripts\\fortls.exe",
+    "editor.rulers": [123],
+    "files.associations": {
+        "*.f95": "FortranFreeForm"
+    }
+
+}
